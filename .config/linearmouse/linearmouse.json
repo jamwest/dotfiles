@@ -1,0 +1,32 @@
+{
+  "$schema" : "https:\/\/schema.linearmouse.app\/0.7.6",
+  "schemes" : [
+    {
+      "buttons" : {
+        "universalBackForward" : true
+      },
+      "if" : {
+        "device" : {
+          "productName" : "G Pro Gaming Mouse",
+          "serialNumber" : "1187385B3731",
+          "productID" : "0xc085",
+          "category" : "mouse",
+          "vendorID" : "0x46d"
+        }
+      },
+      "pointer" : {
+        "acceleration" : 0,
+        "speed" : 0.379,
+        "disableAcceleration" : false
+      },
+      "scrolling" : {
+        "scale" : {
+          "vertical" : 1
+        },
+        "distance" : {
+          "vertical" : "51.5px"
+        }
+      }
+    }
+  ]
+}
