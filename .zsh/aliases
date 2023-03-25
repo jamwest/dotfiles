@@ -1,0 +1,1 @@
+alias config='/opt/homebrew/bin/git --git-dir=/Users/jamwest/.cfg/ --work-tree=/Users/jamwest'
